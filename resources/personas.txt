@@ -1,0 +1,8 @@
+GUIA;12345678-9;Camila Rojas;Av. Vicente Perez Rosales;1250;Llanquihue;Los Lagos;camila.rojas@llanquihuetour.cl;+56987654321;Guia Turistico Senior;1250000;2018;Espanol, Ingles;SERNATUR
+GUIA;15432198-K;Diego Navarro;Costanera;410;Puerto Varas;Los Lagos;diego.navarro@llanquihuetour.cl;+56977112233;Guia de Trekking;1100000;2020;Espanol, Ingles, Aleman;SERNATUR
+EMPLEADO;11111111-1;Pedro Antillanca;Los Arrayanes;77;Frutillar;Los Lagos;pedro.antillanca@llanquihuetour.cl;+56955554444;Operador Logistico;980000;2021
+EMPLEADO;16890123-4;Javiera Soto;San Bernardo;320;Puerto Varas;Los Lagos;javiera.soto@llanquihuetour.cl;+56966443322;Coordinadora de Reservas;950000;2022
+CLIENTE;9876543-K;Matias Fuentes;Calle Serena;480;Puerto Varas;Los Lagos;matias.fuentes@gmail.com;+56912345678;7;Frecuente
+CLIENTE;19234567-2;Valentina Paredes;Baquedano;215;Llanquihue;Los Lagos;vale.paredes@gmail.com;+56999887766;2;Nuevo
+PROVEEDOR;22222222-2;Rosa Mancilla;Camino El Volcan;Km 4;Puerto Varas;Los Lagos;contacto@alojamientosur.cl;+56966667777
+CLIENTE;1234;Registro Invalido;Calle Falsa;123;Llanquihue;Los Lagos;error@correo.cl;+56900000000;1;Nuevo
